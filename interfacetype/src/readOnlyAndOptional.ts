@@ -7,7 +7,7 @@ type User={
 
 let newUser :User ={
     _id :'123',
-    name:'ashish',
+    name:'Ashishsagane',
     isActive:true,
     // creditDetails :'' -> optional
 }

@@ -5,7 +5,7 @@ type User ={
 }
 
 const createUser=(user :User):User=>{
- return {uname:'ashish',email:'ashish@g.com',isActive:true}
+ return {uname:'ashish',email:'a@g.com',isActive:true}
 }
 
 let newUser=createUser({uname:'',email:'',isActive:false})
